@@ -180,7 +180,7 @@ a {
   &:hover {
     background: var(--tertiary);
     color: var(--secondary);
-    box-shadow: 4px 4px $color-box-shadow;
+    box-shadow: 4px 4px #85A8FF;
     transition: all 0.3s linear;
     @include border-radius;
     .fa {
