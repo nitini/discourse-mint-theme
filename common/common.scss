@@ -234,9 +234,9 @@ a {
   &.active {
     @include border-radius;
     transition: all 0.3s linear;
-    background: #FF7F5E;
+    background: #FF6A43;
     color: var(--secondary);
-    border: 1px solid #FF7F5E;
+    border: 1px solid #FF6A43;
   }
 }
 
