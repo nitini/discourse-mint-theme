@@ -1,5 +1,7 @@
 @import 'variables';
 
+//Add after body to get back to original: :not(.navigation-categories):not(.navigation-topics)
+
 body #main-outlet {
   @include border-radius;
   box-shadow: 0 8px 60px 0 rgba(103,151,255,.10), 0 12px 90px 0 rgba(133,255,103,.10);
